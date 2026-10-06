@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated": "2026-10-06T07:40:13",
+ "generated": "2026-10-06T08:07:20",
  "templates": [
   {
    "id": "t4b63d954e714",
@@ -1147,8 +1147,8 @@
    "title": "رد 99بالغ",
    "category": "الأموال والمبالغ",
    "file": "templates/tba6895817688.docx",
-   "sha256": "8e33174b75d808b6f576c1c96713abc7a29c6e8330a36ada076f59cfae6db9a3",
-   "size": 17001,
+   "sha256": "f9f2020e58656c9f0778f23718b73897382b66e9ac4da350e43a7d50747a34dc",
+   "size": 17026,
    "letterhead": false,
    "summary": "التمس رد المبالغ المدفوعة على حساب الدعوى التنفيذية حسب الاصول و عليه ترفع الاوراق لرئاسة التنفيذ للاطلاع .",
    "fields": [
@@ -1168,8 +1168,8 @@
    "title": "رد مبالغ",
    "category": "الأموال والمبالغ",
    "file": "templates/t855fd04e1b4e.docx",
-   "sha256": "2690b5a06603c4fde7a16b07c5b9ed5de0de50a081e698fd212b3660be95cb11",
-   "size": 24054,
+   "sha256": "2cd6fa58ddd8da7a25b6ece3a8d3527236dea84bb1f1815d30dfeead09d5b5c4",
+   "size": 17519,
    "letterhead": false,
    "summary": "التمس رد المبالغ المدفوعة على حساب الدعوى التنفيذية حسب الاصول و عليه ترفع الاوراق لرئاسة التنفيذ للاطلاع .",
    "fields": [
